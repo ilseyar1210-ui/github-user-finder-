@@ -1,7 +1,7 @@
 # GitHub User Finder
 
 **Автор:** Сабирова Карина Кабировна  
-**GitHub репозиторий:** https://github.com/ilseyar1210-UI/github-user-finder
+**GitHub репозиторий:** https://github.com/ilseyar1210-UI/github-user-finder-
 
 ## Описание
 
